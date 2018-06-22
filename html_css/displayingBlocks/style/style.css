@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    height: auto ;
+    width: 1000px;
+    margin: 0px auto;
+    background-color: #d5d2ae;
+}
+
+#header{
+    margin-left: 250px;
+    padding-top: 20px;
+    display: block;
+}
+
+.github{
+    width: 15%;
+    height: 3%;
+    display: inline;
+}
+
+h2{
+    display: inline;
+    margin-bottom: 50px;
+}
+
+#first{
+    margin-left: 50px ;
+    display: block;
+}
+.chery{
+    width:15% ;
+    height: 25%;
+    background-color: lightskyblue;
+    margin-left: 5px;
+    margin-top: 15px;
+    padding: 10px;
+    border: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+.jean{
+    width:15% ;
+    height: 25%;
+    background-color: palevioletred;
+    margin-left: 5px;
+    margin-top: 15px;
+    padding: 10px;
+    border: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+.body{
+    margin-left: 60px;
+    margin-bottom: 70px;
+    padding-bottom: 50px;
+}
